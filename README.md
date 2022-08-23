@@ -1,1 +1,6 @@
-# Second-Difference-Solutions.github.io
+# Second Difference Solutions 
+
+This repository contains the code for Second Difference Solutions.
+
+
+## Coming Soon
