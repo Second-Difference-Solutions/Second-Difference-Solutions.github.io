@@ -1,0 +1,14 @@
+name: ""
+output_dir: "."
+navbar:
+  title: "Second Difference Solutions"
+  type: inverse
+  left:
+    - text: "Main"
+      icon: fa-home
+      href: index.html
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+runtime: shiny
