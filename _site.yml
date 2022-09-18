@@ -1,4 +1,4 @@
-name: ""
+name: "Second Difference Solutions"
 output_dir: "."
 navbar:
   title: "Second Difference Solutions"
@@ -7,8 +7,14 @@ navbar:
     - text: "Main"
       icon: fa-home
       href: index.html
+  right:
+    - text: "Email"
+      icon: fa-envelope-o
+      href: mailto:matt@seconddifferencesolutions.com
+
 output:
   html_document:
-    theme: yeti
+    theme: lumen
     highlight: textmate
+    css: www/styles.css
 runtime: shiny

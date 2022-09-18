@@ -2,9 +2,9 @@
 
 
 pkgs <- c(
-  "rmarkdown",        # High performance machine learning
-  "tidyverse",  # Set of pkgs for data science: dplyr, ggplot2, purrr, tidyr, ...
-  "tidyquant",  # Financial time series pkg - Used for theme_tq ggplot2 theme
+  "rmarkdown",      
+  "tidyverse", 
+  "tidyquant",
   "plotly",
   "blogdown",
   "showtext",
@@ -21,13 +21,16 @@ pkgs <- c(
   "timetk",
   "modeltime",
   "lubridate",
-  "DT"
+  "DT",
+  "Rtools",
+  "devtools",
+  "bslib"
 )
 
 install.packages(pkgs)
 
-
 devtools::install_github("business-science/portfoliodown")
 
-install.packages("devtools")
-install.packages("Rtools")
+
+
+install.packages("bslib")

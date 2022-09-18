@@ -1,25 +1,35 @@
----
-title: "Coming Soon"
----
+
+
+<p align="center">
+  <img src="files/sds_logo.png"/>
+</p>
 
 
 
 
 <br/>
 
-<br/>
+
+Services: 
+
+ - Build Template Websites
+ - Machine Learning Consultation and Development
+ - Build Template Presentations 
+ - Train your staff to be better R programmers
+ - Build Web Applications
+ - Business Analysis/Consultation 
+ - Business Process Optimization
+ 
+ 
+
 
 <br/>
 
-<br/>
 
-<br/>
 
 
 <br/>
-
-
-
-*Data last refreshed on `r Sys.Date()`.*
 
 *Document Built with R Version: `r getRversion()`*
+
+<br/>
