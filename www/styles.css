@@ -1,0 +1,37 @@
+
+
+/*      NAV BAR BACKGROUND    */
+
+
+/*      blue # #002855   */
+/*      gold   #EAAA00  */
+
+
+
+
+.navbar-inverse {
+    background-color: #002855;
+    border-color: #002855;
+}
+
+
+.nav.navbar-nav.navbar-right {
+    color: #EAAA00;
+}
+
+
+.navbar-inverse .navbar-brand {
+    color: #EAAA00;
+}
+
+
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+    color: #EAAA00;
+    background-color: transparent;
+}
+
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #EAAA00;
+}

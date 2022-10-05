@@ -1,32 +1,40 @@
 
 
-<p align="center">
+<center>
   <img src="files/sds_logo.png"/>
-</p>
+</center>
 
 
+
+***
+
+<br/>
+
+
+### Services
+
+ - Custom Business Solutions Built to Scale
+ - Machine Learning Consulting 
+ - Business Consulting and Process Analysis
+ - R Programming Development Training
+ - Deploying Custom Shiny Web Applications
+ - Publishing and hosting content
 
 
 <br/>
 
 
-Services: 
+### Digital Products
 
- - Build Template Websites
- - Machine Learning Consultation and Development
- - Build Template Presentations 
- - Train your staff to be better R programmers
- - Build Web Applications
- - Business Analysis/Consultation 
- - Business Process Optimization
- 
- 
-
+ - Websites and Blogs
+ - Presentations 
+ - E-mail Campaigns
+ - Educational Products
 
 <br/>
 
 
-
+<br/>
 
 <br/>
 
