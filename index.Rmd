@@ -14,9 +14,9 @@
 ### Services
 
  - Custom Business Solutions Built to Scale
- - Machine Learning Consulting 
+ - Data Science and Machine Learning Consulting 
  - Business Consulting and Process Analysis
- - R Programming Development Training
+ - R Programming Developer Services
  - Deploying Custom Shiny Web Applications
  - Publishing and hosting content
 
@@ -26,15 +26,18 @@
 
 ### Digital Products
 
- - Websites and Blogs
- - Presentations 
- - E-mail Campaigns
- - Educational Products
+ - Custom Websites and Blogs
+ - Custom Reproducible Presentations 
+ - Custom E-mail Campaigns
+ - Custom E-Learning and Educational Products
 
 <br/>
 
 
 <br/>
+
+<br/>
+
 
 <br/>
 
