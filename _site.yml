@@ -15,6 +15,7 @@ navbar:
 output:
   html_document:
     includes:
+      in_header: www/GA.html
       after_body: www/footer.html
     theme: lumen
     highlight: textmate

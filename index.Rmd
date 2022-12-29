@@ -8,15 +8,17 @@
 
 ***
 
+
 <br/>
 
 
 ### Services
 
  - Custom Business Solutions Built to Scale
- - Data Science and Machine Learning Consulting 
+ - Data Science and Machine Learning Consulting
+ - Predictive Analytics Projects 
  - Business Consulting and Process Analysis
- - R Programming Developer Services
+ - R Programming/Development Projects
  - Deploying Custom Shiny Web Applications
  - Publishing and hosting content
 
